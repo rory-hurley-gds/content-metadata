@@ -1,6 +1,7 @@
 # `content-metadata`
 
 The aim of this project is to extract semantic metadata from gov.uk content.
+This is a project owned by Data Labs.
 
 ```{warning}
 Where this documentation refers to the root folder we mean where this README.md is
