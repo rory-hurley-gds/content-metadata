@@ -34,7 +34,7 @@ def process_data(data_path):
 
 if __name__ == "__main__":
     sentences, pos, tag, enc_pos, enc_tag = process_data(config.TRAINING_FILE)
-    
+
     meta_data = {
         "enc_pos": enc_pos,
         "enc_tag": enc_tag
